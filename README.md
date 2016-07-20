@@ -1,3 +1,3 @@
 #Asm learning
 
-Small asm samples
+Small asm samples using nasm
